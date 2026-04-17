@@ -5,10 +5,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
-        <h1>Viva México Cabrones!</h1>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
