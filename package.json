@@ -1,8 +1,9 @@
 {
   "private": true,
   "engines": {
-    "node": "20.x",
-    "pnpm": "9.x"
+    "node": "20.x"
+   
+
   },
   "scripts": {
     "build": "next build",
