@@ -1,5 +1,9 @@
 {
   "private": true,
+  "engines": {
+    "node": "20.x",
+    "pnpm": "9.x"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
