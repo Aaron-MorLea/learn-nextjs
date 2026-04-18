@@ -1,9 +1,9 @@
 
-
-export default function invoices() {
+// app/dashboard/invoices/page.tsx
+export default function Invoices() {
     return (
         <div>
-            <h1>invoices</h1>
+            <h1>Invoices</h1>
         </div>
     );
 }
